@@ -26,6 +26,7 @@ p {
 }
 .nav-link{
   font-size: 1.4em;
+  color: rgb(255, 255, 255);
 }
 
 #summitimg{
@@ -144,11 +145,3 @@ hr.light-100 {
   margin-bottom: 0;
   padding-bottom: 0;
 }
-
-
-
-
-
-
-
-
