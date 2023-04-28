@@ -18,8 +18,9 @@ table, th, td {
   border-collapse: collapse;
 }
 th, td {
-  padding: 10px;
+  padding: 5px;
   text-align: center;
+  font-size: 1.4em;
 }
 
 .navbar{
